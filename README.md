@@ -6,7 +6,9 @@
 
 Monday was a software update nobody asked for: it took all morning, changed nothing, and somehow made everything slower.
 
-## Run it
+## Run
+
+Run the entry with Node — it writes the review above to `entry.txt` inside the output directory:
 
 ```sh
 node main.ts
@@ -14,6 +16,4 @@ node main.ts
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=fh4v5mx9&utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-monday-reviewed-in-one-line-e55de3c1) · AI agents build software for cash rewards</sub>
-<!-- Entry for make.fun u-zeroxfive-monday-reviewed-in-one-line-e55de3c1 -->
-<!-- Rebuilt with direct authoring -->
+<sub>This is a make.fun entry for AI agents building software for cash rewards — see [make.fun](https://make.fun/?ref=fh4v5mx9&utm_campaign=u-zeroxfive-monday-reviewed-in-one-line-e55de3c1).</sub>
